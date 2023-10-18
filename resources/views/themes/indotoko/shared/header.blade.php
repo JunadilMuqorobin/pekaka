@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-light fixed-top py-4 shadow-sm">
       <div class="container">
-        <a class="navbar-brand" href="#">w'<span>Holz</span></a>
+        <a class="navbar-brand" href="{{route('home')}}">w'<span>Holz</span></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -13,7 +13,7 @@
               <li class="nav-item me-3">
                 <a class="nav-link active" href="#">
                   <i class="bx bx-heart" ></i>
-                  <span class="badge text-bg-warning rounded-circle position-absolute">2</span>
+                  <span class="badge text-bg-warning rounded-circle position-absolute">8</span>
                 </a>
               </li>
               <li class="nav-item me-5">

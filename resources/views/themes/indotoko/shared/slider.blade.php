@@ -1,7 +1,7 @@
 <div class="container menu-wrapper fixed-top d-none d-lg-block">
   <div class="menu d-flex justify-content-center align-items-center">
-  <a class="nav-link active" href="#">Home</a>
-  <a class="nav-link" href="#">Best Seller</a>
+  <a class="nav-link active" href="{{route('home')}}">Home</a>
+  <a class="nav-link" href="#">Products</a>
   <a class="nav-link" href="#">New Arrival</a>
   <a class="nav-link" href="#">Blog</a>
   </div>

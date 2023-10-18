@@ -25,4 +25,8 @@ class HomeController extends Controller
     {
         return view('themes.indotoko.home');
     }
+    public function product()
+    {
+        return view('themes.indotoko.products.category');
+    }
 }
